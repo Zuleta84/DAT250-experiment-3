@@ -3,6 +3,6 @@ The experiment with MongoDB was easy to do when I worked with the mongo DB shell
 
 Experiment 1: MongoDB CRUD operations In this experiment i could work with MongoDB and how i can use this tool to work with database. in this experiment i could to work with all the MongoDB CRUD operations. I learned to work with functions in the diefrents examples that the MongoDB tutorials ofered The screenshots are in the issues item.
 
-Experiment 2: Aggregation the agretation experiment like the map reduce are very important to learned MOngoDB is a very easy tool and is nosql database system allows the user the code define the schema. the problem i had with this experiment was to try to development my own function / operation and i think this wasnt easy to me. i did but no was really good like i were expected.
+Experiment 2: Aggregation the agretation experiment like the map reduce are very important to learned MOngoDB is a very easy tool and is nosql database system allows the user the code define the schema. the problem i had with this experiment was to try to development my own function / operation and i think this wasnt easy to me. i did but no was really good like i were expected. I chossed the agregation method like Mongo DB recomended i think as usefull but dificult for me. 
 
 the screenshots are in the issues item.
